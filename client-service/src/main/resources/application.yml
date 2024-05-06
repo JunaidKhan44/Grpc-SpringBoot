@@ -1,0 +1,5 @@
+grpc:
+  client:
+    grpc-jk-service:
+      address: static://localhost:9000
+      negotiationType: plaintext
