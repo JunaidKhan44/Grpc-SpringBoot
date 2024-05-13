@@ -13,6 +13,11 @@ import java.util.*;
 import java.util.concurrent.CountDownLatch;
 import java.util.concurrent.TimeUnit;
 
+/**
+ * @author Junaid.Khan
+ *
+ */
+
 @Service
 public class BookAuthorClientService {
 
